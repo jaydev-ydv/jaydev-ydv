@@ -505,10 +505,7 @@ A personalized learning platform that adapts content difficulty in real time bas
 
 <br/><br/>
 
-<!-- Back to Top Button with Smooth Scroll -->
-<a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
-<img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F2937?style=for-the-badge"/>
-</a>
+<a href="#"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F2937?style=for-the-badge"/></a>
 
 <br/><br/>
 
