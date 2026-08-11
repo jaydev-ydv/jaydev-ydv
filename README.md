@@ -1,17 +1,12 @@
-<!-- ============================================================ -->
-<!--  PREMIUM GITHUB PROFILE README — JAYDEV KUMAR                -->
-<!--  Theme: Dark / Glassmorphism / Neon Gradient (Linear x Vercel x Apple) -->
-<!--  Replace every YOUR_* placeholder before publishing.          -->
-<!-- ============================================================ -->
 
 <div align="center">
 
 <!-- SVG Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:6C63FF,100:00E5FF&height=260&section=header&text=JAYDEV%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=3[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:6C63FF,100:00E5FF&height=260&section=header&text=JAYDEV%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- Animated Typing Header -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&l[...]
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Jaydev+%F0%9F%91%8B;I+build+things+with+Java+%2B+AI+%F0%9F%A4%96;Projects+build+experience.+%F0%9F%9A%80" alt="Typing SVG" />
 
 </a>
 
@@ -69,7 +64,7 @@
      holographic code screens, dark purple-blue gradient background, glowing UI
      panels, ultra detailed digital art, 4k, cinematic lighting"
   -->
-  <img src="PROFILE_PICTURE" width="180" style="border-radius:50%; border:3px solid #7F5AF0;" alt="Jaydev Kumar" />
+  <img src="https://github.com/user-attachments/assets/79482c44-3a33-4ac0-8edb-83daa223f9f6" width="180" style="border-radius:50%; border:3px solid #7F5AF0;" alt="Jaydev Kumar" />
 </div>
 
 ---
@@ -104,7 +99,7 @@ Status:      🟢 Open to SDE Internship / Full-Time Opportunities
 - ✉️ Reach me at **jaydevkumaryadav4@gmail.com**
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="40%" valign="middle" align="center">
 
 <!--
   AI IMAGE PROMPT #2 (About Section):
@@ -112,7 +107,7 @@ Status:      🟢 Open to SDE Internship / Full-Time Opportunities
    swirling neon purple and cyan gradients, particle network, ultra clean,
    4k wallpaper style"
 -->
-<img src="ABOUT_SECTION_IMAGE" width="100%" style="border-radius:16px;"/>
+<img width="400" height="300" alt="ai_waves" src="https://github.com/user-attachments/assets/e61962ff-6a8f-47dd-93c7-7c236b5b8db3" width="100%" style="border-radius:10px;"/>
 
 </td>
 </tr>
@@ -370,7 +365,7 @@ A personalized learning platform that adapts content difficulty in real time bas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydev-ydv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7F5AF0&text_color=c9d1d9" width="4[...]
+<img src="https://github-readme-stats.vercel.app/api?username=jaydev-ydv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7F5AF0&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev-ydv&theme=radical&hide_border=true&background=0D1117&ring=7F5AF0&fire=00E5FF&currStreakLabel=00E5FF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydev-ydv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="40%"/>
@@ -399,7 +394,7 @@ A personalized learning platform that adapts content difficulty in real time bas
 <td align="center" width="20%">
 <a href="https://leetcode.com/u/jaydevkrydv/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/><br/>
-<img src="https://leetcode.card.workers.dev/?username=jaydevkrydv&theme=dark&font=JetBrains+Mono" width="100%"/>
+
 </a>
 </td>
 <td align="center" width="20%">
@@ -407,68 +402,14 @@ A personalized learning platform that adapts content difficulty in real time bas
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </td>
+
 <td align="center" width="20%">
-<a href="YOUR_CODECHEF_LINK" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="YOUR_CODEFORCES_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="YOUR_HACKERRANK_LINK" target="_blank">
+<a href="\https://www.hackerrank.com/profile/jaydevkumaryada1" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </td>
 </tr>
-<tr>
-<td align="center" colspan="5">
-<a href="YOUR_STACKOVERFLOW_LINK" target="_blank">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
 
----
-
-<!-- ============================================================ -->
-<!--  AI GENERATED ARTWORK GALLERY                                  -->
-<!-- ============================================================ -->
-
-## 🎨 Visual Identity — AI Artwork Placeholders
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_1" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A futuristic developer workspace with holographic dual monitors, neon purple-cyan lighting, rain-soaked cyberpunk city window view, ultra detailed digital art"</sub>
-</td>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_2" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A minimal dark abstract illustration of an AI assistant as a glowing neural network orb, deep indigo background, soft neon glow, wallpaper style"</sub>
-</td>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_3" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A cozy minimal developer desk setup at night, mechanical keyboard, dual monitors showing code, warm neon purple rim lighting, isometric illustration style"</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_4" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A software engineer character illustration coding at a floating holographic terminal above a futuristic city skyline, gradient purple-blue-cyan sky, flat vector art"</sub>
-</td>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_5" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A stylized programming city skyline made of glowing code blocks and circuit-board streets, dark background, neon magenta and cyan accents, digital art"</sub>
-</td>
-<td align="center" width="33%">
-<img src="AI_ART_IMAGE_6" width="100%" style="border-radius:12px;"/><br/>
-<sub><b>Prompt:</b> "A GitHub-themed abstract artwork with the Octocat silhouette made of glowing constellation lines, dark navy background, purple-teal gradient, elegant minimal poster design"</sub>
-</td>
-</tr>
 </table>
 
 ---
