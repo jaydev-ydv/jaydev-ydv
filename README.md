@@ -7,11 +7,11 @@
 <div align="center">
 
 <!-- SVG Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:6C63FF,100:00E5FF&height=260&section=header&text=JAYDEV%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:6C63FF,100:00E5FF&height=260&section=header&text=JAYDEV%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=3[...]
 
 <!-- Animated Typing Header -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Jaydev+%F0%9F%91%8B;I+build+things+with+Java+%2B+AI+%F0%9F%A4%96;Projects+build+experience.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&l[...]
 
 </a>
 
@@ -370,7 +370,7 @@ A personalized learning platform that adapts content difficulty in real time bas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydev-ydv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7F5AF0&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaydev-ydv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7F5AF0&text_color=c9d1d9" width="4[...]
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev-ydv&theme=radical&hide_border=true&background=0D1117&ring=7F5AF0&fire=00E5FF&currStreakLabel=00E5FF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydev-ydv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" width="40%"/>
@@ -505,7 +505,10 @@ A personalized learning platform that adapts content difficulty in real time bas
 
 <br/><br/>
 
-<a href="#"><img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F2937?style=for-the-badge"/></a>
+<!-- Back to Top Button with Smooth Scroll -->
+<a href="#" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
+<img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-1F2937?style=for-the-badge"/>
+</a>
 
 <br/><br/>
 
